@@ -15,3 +15,9 @@
 * STRING
 
   응용 - TRIE(문자열을 빠르게 탐색하기위한 트리형태의 자료구조로 생성시 O(N*L) 탐색시 O(L)) 
+
+* SEGMENT TREE(구간트리)
+
+  query에 빠르게 응답하기위한 트리형태의 자료구조로 update시 O(logN) 
+
+  응용 - 특정구간의 data 처리
