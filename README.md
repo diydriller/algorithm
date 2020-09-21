@@ -18,6 +18,6 @@
 
 * SEGMENT TREE(구간트리)
 
-  query에 빠르게 응답하기위한 트리형태의 자료구조로 update시 O(logN) 
+  query에 빠르게 응답하기위한 트리형태의 자료구조로 update시 O(logN)이며 binary tree로 구현한다.
 
   응용 - 특정구간의 data 처리
