@@ -20,4 +20,4 @@
 
   query에 빠르게 응답하기위한 트리형태의 자료구조로 update시 O(logN)이며 binary tree로 구현한다.
 
-  응용 - 특정구간의 data 처리
+  응용 - 특정구간의 data 처리 , lazy propagation(update시 대표node에 값을 저장하고 필요할때 propagation)
