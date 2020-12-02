@@ -33,7 +33,7 @@
 
 * SHORTEST PATH
 
-  최단거리 알고리즘으로 dijkstra와 floyd warshall가 있다. 전자는 한정점에서부터 다른 정점들까지의 최단거리를
+  최단거리 알고리즘으로 dijkstra와 floyd warshall가 있다. 전자는 한 정점에서부터 다른 정점들까지의 최단거리를
   구할때 사용하고 구현시 priority_queue를 사용할시 O(VlogE)가 걸린다.
   후자는 모든 정점에서부터 모든 정점까지의 최단거리를 구할때 사용하고 구현시 3중 for문을 이용해서 구현한다.
   
